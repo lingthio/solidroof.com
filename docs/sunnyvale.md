@@ -1,7 +1,7 @@
-## Amazing Sunnyvale detached single family home
+## Amazing 5BR/3BA detached single family home in Sunnyvale
 * Safe and quiet neighborhood in Sunnyvale, CA
 * Spacious 2900 sf. 5 bedrooms. 3 full baths.
-* Big 18'x20' Kitchen and 15'x16' Master Bedroom.
+* Huge 18'x20' Kitchen and 15'x16' Master Bedroom.
 * Family room / Living room / Dining room.
 * Open and Spacious floorplan with lots of Sunlight.
 * Modern. Built in 1999 and well maintained.
@@ -29,3 +29,13 @@
 * Fairwood Explorer Program (K-5 elementary school program)
 * Bisshop Elementary, Columbia Middle, Freemont High,
 * De Anza Community College
+
+### Pictures
+Huge kitchen (18'x20')
+![Huge kitchen](assets/img/lastreto-kitchen-b-600.jpg)
+
+Huge master bedroom with master bathroom
+![Huge master bedroom](assets/img/lastreto-bedroom-1a-600.jpg)
+![Huge master bedroom](assets/img/lastreto-bedroom-1b-600.jpg)
+
+
