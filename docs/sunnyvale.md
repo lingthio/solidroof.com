@@ -1,31 +1,31 @@
-## Sunnyvale 5 bedroom / 3 bath single family home
-
-### Amazing 2950 sf detached 5BR/3BA home
-* Family room / Living room / Dining room.
+## Amazing Sunnyvale detached single family home
+* Safe and quiet neighborhood in Sunnyvale, CA
+* Spacious 2900 sf. 5 bedrooms. 3 full baths.
 * Big 18'x20' Kitchen and 15'x16' Master Bedroom.
+* Family room / Living room / Dining room.
 * Open and Spacious floorplan with lots of Sunlight.
-* Like new. Built in 1999 and well maintained.
+* Modern. Built in 1999 and well maintained.
 * Master bedroom has 2 walk-in closets.
-* Master bathroom has a large shower stall and a jetted tub.
+* Master bathroom has a large shower stall and a large tub.
 * Includes 1 bedroom and 1 full bath on first floor.
+* New carpet and toilets installed in 2019.
 
-### Large 7000 sf lot in a Safe neighborhood
+### Large 7000 sf lot
 * Fully fenced in back yard.
-* 650 sf redwood deck with built-in hottub.
+* 650 sf redwood deck.
 * Attached 500 sf 2-car garage (larger than usual 400 sf).
 
-### Quiet and Convenient Location -- View Map
-* Near the corner of N Fair Oaks Ave & Central Expressway.
+### Convenient Location
+* [View map](https://www.google.com/maps/place/Lastreto+Ave+%26+E+Taylor+Ave,+Sunnyvale,+CA+94085).
 * Quick acces to Central Expressway and far enough to be quiet.
 * Short distance to Hwy 101, 237 and 85.
-* Minutes away from downtown Sunnyvale (0.9 mi),
-   downtown Mountain View (3.7 mi) and Cupertino (4.7 mi).
+* Minutes away from downtown Sunnyvale (0.9 mi), downtown Mountain View (3.7 mi) and Cupertino (4.7 mi).
 
 ### Appliances
-* Gas stove/oven, Fridge, Microwave, Dishwasher.
+* Fridge, Microwave, Dishwasher, Fridge, Gas stove/oven.
+* Hookups for washer & dryer, but appliances NOT included.
 
 ### Schools
-Sunnyvale children are eligible for the "Fairwood Explorer Program". It's a K-5 elementary school program that provides hands-on, challenge-based instruction and active community involvement
-Other schools:
+* Fairwood Explorer Program (K-5 elementary school program)
 * Bisshop Elementary, Columbia Middle, Freemont High,
 * De Anza Community College
