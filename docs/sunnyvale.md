@@ -2,7 +2,7 @@
 * Safe and quiet neighborhood in Sunnyvale, CA
 * Spacious 2900 sf. 5 bedrooms. 3 full baths.
 * Huge 18'x20' Kitchen and 15'x16' Master Bedroom.
-* Family room / Living room / Dining room.
+* Catherdal ceiling Living Room / Family room / Dining room.
 * Open and Spacious floorplan with lots of Sunlight.
 * Modern. Built in 1999 and well maintained.
 * Master bedroom has 2 walk-in closets.
@@ -31,11 +31,80 @@
 * De Anza Community College
 
 ### Pictures
-Huge kitchen (18'x20')
-![Huge kitchen](assets/img/lastreto-kitchen-b-600.jpg)
+Huge kitchen (18'x20')  
+![Huge kitchen](assets/img/lastreto-kitchen-b-600.jpg)  
 
-Huge master bedroom with master bathroom
-![Huge master bedroom](assets/img/lastreto-bedroom-1a-600.jpg)
-![Huge master bedroom](assets/img/lastreto-bedroom-1b-600.jpg)
+Huge master bedroom (15'x16') with master bathroom  
+![Huge master bedroom](assets/img/lastreto-bedroom-1a-600.jpg)  
+![Huge master bedroom](assets/img/lastreto-bedroom-1b-600.jpg)  
+
+### Floor plan
+```
+First Floor            +-------------+--------------------------+----------------------+
+                       |             |                          |                      |
+                       |  Full Bath  +                          |                      |
+                       |  9'0 x 5'0  .                          |                      |
+                       |  (Tile)     .                          |                      |
+                       +-------------+       Living Room        |                      |
+                       |                     17'6 x 13'6        |                      |
+                       +                     (Hardwood)         |     Family Room      |
+                       .                                        |     15'6 x 16'9      |
+                       .    Entry                               |     (Hardwood)       |
+                       .                                        |                      |
+                       +                                        |                      |
+                       |                                        |                      |
+                       |    +---------------------+             +                      |
+                       |        Stairs / Closet   .                                    |
+                       |                          .                                    |
+         . . ----------+----------+-----+---------+       +-------------------+      +-+
+                       | Washer & |Closet                                              |
+                       | Dryer    |     |                                              +
+                       +          + . . +                                              .
+                       .                                                               .
+                       .                                                               .
+                       +----------++ . .+--+             +--+                          +
+                       | Closet   |     |                   |                          |
+         2-car Garage  | . . . . .+     |                   |       Kitchen            |
+         21'6 x 19'6   |                |                   |       18'6 x 19'9        |
+         (Concrete)    |                |                   |       (Tile)             |
+                       |                |    Dining Room    |                          |
+                       |   Bedroom 5    |    12'6 x 13'3    |                          |
+                       |   10'9 x 11'0  |    (Hardwood)     |                          |
+                       |   (Hardwood)   |                   |                          |
+                       |                |                   |                          |
+                       |                |                   |                          |
+                       |                |                   |                          |
+         . . ----------+----------------+-------------------+--------------------------+
 
 
+
+Second Floor                                                    +----------------------+
+                                                                |                      |
+                                                                |                      |
+                                                                |    Master Bathroom   |
+                                                                |    15'6 x 9'6        |
+                                                                |    (Tile)            |
+                                                                |                      |
+                                                                |                      |
+                                                                |                      |
+                                                                +---------+    +-------+
+                                 . . ------------+              |         |    |       |
+                                     Stairs      |              | Walk-in |    |Walk-in|
+                                                 |              | Closet  |    |Closet |
++------------+--+------+--------------------+    +--------------+         |    |       |
+|   Closet   |  |                                               + . . . . +    + . . . +
++-+ . . . .+-+--+                                               .                      |
+|               .                                               .                      |
+|               .       +-----------+ . .+--+ . .+--------------+                      |
+|               |       |                .  |                   |                      |
+|               |       |                .  |                   |                      |
+|  Bedroom 4    + . .+--+                .Cl|                   |    Master Bedroom    |
+|  10'6 x 14'6  |       |   Bedroom 3    .  |     Bedroom 2     |    15'6 x 16'0       |
+|  (Carpet)     | Full  |   11'0 x 12'3  .__|     13'0 x 12'3   |    (Carpet)          |
+|               | Bath  |   (Carpet)     |  .     (Carpet)      |                      |
+|               | 5'x9' |                |  .                   |                      |
+|               | (Tile)|                |Cl.                   |                      |
+|               |       |                |  .                   |                      |
+|               |       |                |  .                   |                      |
++---------------+-------+----------------+--+-------------------+----------------------+
+```
