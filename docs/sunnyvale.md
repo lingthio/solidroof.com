@@ -2,6 +2,7 @@
 * Safe and quiet neighborhood in Sunnyvale, CA
 * 2900 sq.ft. detached single family home
 * Open and Spacious floorplan with lots of sunlight
+* Hardwood flooring on the first floor, new carpet on the second floor
 
 ![High ceiling living room](assets/img/lastreto-livingroom-200.jpg)
 ![Huge kitchen](assets/img/lastreto-kitchen-b-200.jpg)
@@ -10,11 +11,11 @@
 * High ceiling Living Room
 * Huge 18'x20' Kitchen (includes dishwasher, fridge & gas stove)
 * Huge 15'x16' Master Bedroom with private bathroom
-* First floor: 1 bedroom & 1 full bath (Hardwood flooring)
-* Second floor: 4 bedrooms & 2 full baths (2019 carpets)
-* Large attached 2-car garage (500 sq.ft. instead of the usual 400)
+* 1 bedroom & 1 full bath on the first floor
+* 4 bedrooms & 2 full baths on the second floor
 * Modern -- Built in 1999 and well maintained
 * New carpet and toilets installed in 2019
+* Large attached 2-car garage (500 sq.ft. instead of the usual 400)
 * Does not include furniture, artwork nor washer & dryer
 
 ### Large 7000 sq.ft. lot
