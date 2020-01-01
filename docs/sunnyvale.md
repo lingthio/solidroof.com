@@ -2,7 +2,7 @@
 * Safe and quiet neighborhood in Sunnyvale, CA.
 * 2900 sf. detached single family home.
 * Open and Spacious floorplan with lots of Sunlight.
-* Huge 18'x20' Kitchen (with microwave, dishwasher, fridge, gas stove/oven).
+* Huge 18'x20' Kitchen (includes dishwasher, fridge & gas stove).
 * Large 15'x16' Master Bedroom.
 * High ceiling Living Room / Family room with fireplace / Dining room.
 * First floor: 1 bedroom & 1 full bath (Hardwood flooring).
@@ -34,7 +34,7 @@
 ### Pictures
 Note: Pictures contain furniture but **furniture NOT INCLUDED**.
 
-Huge kitchen (18'x20') with microwave, dishwasher, fridge & gas stove/oven  
+Huge kitchen (18'x20') with dishwasher, fridge & gas stove  
 ![Huge kitchen](assets/img/lastreto-kitchen-b-600.jpg)  
 Note: No pets have lived here since 2012.
 
