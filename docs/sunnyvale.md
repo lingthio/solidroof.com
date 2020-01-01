@@ -10,7 +10,7 @@
 * Attached 500 sf 2-car garage (larger than usual 400 sf).
 * Modern. Built in 1999 and well maintained.
 * New carpet and toilets installed in 2019.
-* **DOES NOT INCLUDE FURNITURE**.
+* **DOES NOT INCLUDE furniture. DOES NOT INCLUDE washer & dryer**.
 
 ### Large 7000 sf lot
 * Fully fenced in back yard with 650 sf redwood deck.
