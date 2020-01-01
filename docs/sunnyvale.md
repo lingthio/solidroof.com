@@ -1,12 +1,14 @@
 ## Beautiful 5BR/3BA home in Sunnyvale
+![High ceiling living room](assets/img/lastreto-livingroom-200.jpg)
+![Huge kitchen](assets/img/lastreto-kitchen-b-200.jpg)
+![Huge master bedroom](assets/img/lastreto-bedroom-1a-200.jpg)  
+
 * Safe and quiet neighborhood in Sunnyvale, CA
 * 2900 sq.ft. detached single family home
 * Open and Spacious floorplan with lots of sunlight
+* High ceiling Living Room
 * Huge 18'x20' Kitchen (includes dishwasher, fridge & gas stove)
 * Huge 15'x16' Master Bedroom with private bathroom
-* High ceiling Living Room
-* Family room with fireplace
-* Dining room
 * First floor: 1 bedroom & 1 full bath (Hardwood flooring)
 * Second floor: 4 bedrooms & 2 full baths (2019 carpets)
 * Large attached 2-car garage (500 sq.ft. instead of the usual 400)
@@ -45,18 +47,18 @@ Huge master bedroom (15'x16')
 ![Huge master bedroom](assets/img/lastreto-bedroom-1b-600.jpg)
 
 Master bathroom with 2 sinks, toilet stall, shower stall & bath tub  
-![Huge master bedroom](assets/img/lastreto-bath-sink-600.jpg)  
-![Huge master bedroom](assets/img/lastreto-bath-tub-600.jpg)
+![Master bathroom](assets/img/lastreto-bath-sink-600.jpg)  
+![Master bathroom](assets/img/lastreto-bath-tub-600.jpg)
 
 High ceiling living room  
-![Huge master bedroom](assets/img/lastreto-livingroom-600.jpg)
+![High ceiling living room](assets/img/lastreto-livingroom-600.jpg)
 
 Family room with fireplace  
-![Huge master bedroom](assets/img/lastreto-familyroom1-600.jpg)
-![Huge master bedroom](assets/img/lastreto-familyroom2-600.jpg)
+![Family room with fireplace](assets/img/lastreto-familyroom1-600.jpg)
+![Family room with fireplace](assets/img/lastreto-familyroom2-600.jpg)
 
 Fully fenced back yard with spacious 650 sq.ft. deck  
-![Huge master bedroom](assets/img/lastreto-backyard1-600.jpg)
+![Fully fenced back yard](assets/img/lastreto-backyard1-600.jpg)
 
 ### First floor
 ```
