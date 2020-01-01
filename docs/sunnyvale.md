@@ -94,7 +94,7 @@ _
 
 ### Second floor
 ```
-Second Floor                                                    +----------------------+
+                                                                +----------------------+
                                                                 |                      |
                                                                 |                      |
                                                                 |    Master Bathroom   |
