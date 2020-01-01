@@ -116,7 +116,6 @@ hr {
 
 pre {
   overflow: auto;
-  font-size: 80%;
 }
 
 code,
@@ -124,7 +123,7 @@ kbd,
 pre,
 samp {
   font-family: monospace, monospace;
-  font-size: 1em
+  font-size: 0.8em;
 }
 
 button,
