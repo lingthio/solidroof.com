@@ -8,13 +8,11 @@
 * Asking $4900/month with a $4900 deposit
 
 ### Beautiful and spacious home
+* Modern -- Built in 1999 and well maintained
 * Hardwood flooring on the first floor, new carpet on the second floor
 * High ceiling Living Room
 * Huge 18'x20' Kitchen (includes dishwasher, fridge & gas stove)
 * Huge 15'x16' Master Bedroom with private bathroom
-* 1 bedroom & 1 full bath on the first floor
-* 4 bedrooms & 2 full baths on the second floor
-* Modern -- Built in 1999 and well maintained
 * New carpet and toilets installed in 2019
 * Large attached 2-car garage (500 sq.ft. instead of the usual 400)
 * Does not include furniture, artwork nor washer & dryer
