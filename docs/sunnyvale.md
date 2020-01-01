@@ -52,9 +52,9 @@ Family room with fireplace
 Fenced-in back yard with spacious 650 sf deck  
 ![Huge master bedroom](assets/img/lastreto-backyard1-600.jpg)
 
-### Floor plan
+### First floor
 ```
-First Floor            +-------------+--------------------------+----------------------+
+                       +-------------+--------------------------+----------------------+
                        |             |                          |                      |
                        |  Full Bath  +                          |                      |
                        |  9'0 x 5'0  .                          |                      |
@@ -90,9 +90,11 @@ First Floor            +-------------+--------------------------+---------------
                        |                |                   |                          |
          . . ----------+----------------+-------------------+--------------------------+
 ```
+_  
 
+### Second floor
 ```
-Second Floor                                                    +----------------------+
+                                                                +----------------------+
                                                                 |                      |
                                                                 |                      |
                                                                 |    Master Bathroom   |
