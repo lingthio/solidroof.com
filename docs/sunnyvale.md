@@ -3,8 +3,8 @@
 * 2900 sf. detached single family home.
 * Huge 18'x20' Kitchen and 15'x16' Master Bedroom.
 * High ceiling Living Room / Family room with fireplace / Dining room.
-* 1 bedroom & 1 full bath downstairs.
-* 4 bedrooms & 2 full baths upstairs.
+* Hardwoor flooring on first floor: 1 bedroom & 1 full bath.
+* New carpet on second floor: 4 bedrooms & 2 full baths.
 * Open and Spacious floorplan with lots of Sunlight.
 * Modern. Built in 1999 and well maintained.
 * New carpet and toilets installed in 2019.
