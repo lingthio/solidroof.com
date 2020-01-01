@@ -1,13 +1,11 @@
 ## Beautiful 5BR/3BA home in Sunnyvale
+![High ceiling living room](assets/img/lastreto-livingroom-200.jpg)
+![Huge kitchen](assets/img/lastreto-kitchen-b-200.jpg)
+![Huge master bedroom](assets/img/lastreto-bedroom-1a-200.jpg)  
 * Safe and quiet neighborhood in Sunnyvale, CA
 * 2900 sq.ft. detached single family home
 * Open and Spacious floorplan with lots of sunlight
 * Hardwood flooring on the first floor, new carpet on the second floor
-
-![High ceiling living room](assets/img/lastreto-livingroom-200.jpg)
-![Huge kitchen](assets/img/lastreto-kitchen-b-200.jpg)
-![Huge master bedroom](assets/img/lastreto-bedroom-1a-200.jpg)  
-
 * High ceiling Living Room
 * Huge 18'x20' Kitchen (includes dishwasher, fridge & gas stove)
 * Huge 15'x16' Master Bedroom with private bathroom
@@ -25,7 +23,7 @@
 ### Convenient Location
 * Quick access to Central Expressway, but far enough to be quiet
 * Short distance to Highways 101, 237 and 85
-* Minutes away from downtown Sunnyvale (0.9 mi), downtown Mountain View (3.7 mi) and Cupertino (4.7 mi)
+* Minutes away from downtown Sunnyvale (0.9 mi), Mountain View (3.7 mi) and Cupertino (4.7 mi)
 * [View map](https://www.google.com/maps/place/Lastreto+Ave+%26+E+Taylor+Ave,+Sunnyvale,+CA+94085).
 
 ### Appliances
