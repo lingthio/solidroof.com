@@ -1,19 +1,20 @@
 ## Beautiful 5BR/3BA home in Sunnyvale
 * Safe and quiet neighborhood in Sunnyvale, CA.
 * 2900 sf. detached single family home.
-* Huge 18'x20' Kitchen and 15'x16' Master Bedroom.
-* High ceiling Living Room / Family room with fireplace / Dining room.
-* Hardwoor flooring on first floor: 1 bedroom & 1 full bath.
-* New carpet on second floor: 4 bedrooms & 2 full baths.
 * Open and Spacious floorplan with lots of Sunlight.
+* Huge 18'x20' Kitchen (with microwave, dishwasher, fridge, gas stove/oven).
+* Large 15'x16' Master Bedroom.
+* High ceiling Living Room / Family room with fireplace / Dining room.
+* First floor: 1 bedroom & 1 full bath (Hardwood flooring).
+* Second floor: 4 bedrooms & 2 full baths (2019 carpets).
+* Attached 500 sf 2-car garage (larger than usual 400 sf).
 * Modern. Built in 1999 and well maintained.
 * New carpet and toilets installed in 2019.
-* Attached 500 sf 2-car garage (larger than usual 400 sf).
-* Rented **WITHOUT FURNITURE**.
+* **DOES NOT INCLUDE FURNITURE**.
 
 ### Large 7000 sf lot
 * Fully fenced in back yard with 650 sf redwood deck.
-* Automated dripping systems for front and back yard.
+* Automated watering systems for front and back yard.
 
 ### Convenient Location
 * [View map](https://www.google.com/maps/place/Lastreto+Ave+%26+E+Taylor+Ave,+Sunnyvale,+CA+94085).
@@ -23,7 +24,7 @@
 
 ### Appliances
 * Fridge, Microwave, Dishwasher, Fridge, Gas stove/oven.
-* Hookups for washer & dryer, but **appliances NOT INCLUDED**.
+* Hookups for washer & dryer, but **washer & dryer NOT INCLUDED**.
 
 ### Schools
 * Fairwood Explorer Program (K-5 elementary school program)
@@ -31,10 +32,11 @@
 * De Anza Community College
 
 ### Pictures
-Note: Pictures contain furniture that is **NOT INCLUDED**.
+Note: Pictures contain furniture but **furniture NOT INCLUDED**.
 
 Huge kitchen (18'x20') with microwave, dishwasher, fridge & gas stove/oven  
 ![Huge kitchen](assets/img/lastreto-kitchen-b-600.jpg)  
+Note: No pets have lived here since 2012.
 
 Huge master bedroom (15'x16')  
 ![Huge master bedroom](assets/img/lastreto-bedroom-1a-600.jpg)  
