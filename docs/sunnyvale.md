@@ -1,34 +1,34 @@
 ## Beautiful 5BR/3BA home in Sunnyvale
-* Safe and quiet neighborhood in Sunnyvale, CA.
-* 2900 sf. detached single family home.
-* Open and Spacious floorplan with lots of Sunlight.
-* Huge 18'x20' Kitchen (includes dishwasher, fridge & gas stove).
-* Huge 15'x16' Master Bedroom.
-* High ceiling Living Room / Family room with fireplace / Dining room.
-* First floor: 1 bedroom & 1 full bath (Hardwood flooring).
-* Second floor: 4 bedrooms & 2 full baths (2019 carpets).
-* Large attached 2-car garage (500 sf instead of the usual 400 sf).
-* Modern. Built in 1999 and well maintained.
-* New carpet and toilets installed in 2019.
-* **DOES NOT INCLUDE furniture. DOES NOT INCLUDE washer & dryer**.
+* Safe and quiet neighborhood in Sunnyvale, CA
+* 2900 sq.ft. detached single family home
+* Open and Spacious floorplan with lots of Sunlight
+* Huge 18'x20' Kitchen (includes dishwasher, fridge & gas stove)
+* Huge 15'x16' Master Bedroom
+* High ceiling Living Room / Family room with fireplace / Dining room
+* First floor: 1 bedroom & 1 full bath (Hardwood flooring)
+* Second floor: 4 bedrooms & 2 full baths (2019 carpets)
+* Large attached 2-car garage (500 sf instead of the usual 400 sf)
+* Modern -- Built in 1999 and well maintained
+* New carpet and toilets installed in 2019
+* **DOES NOT INCLUDE furniture. DOES NOT INCLUDE washer & dryer**
 
 ### Large 7000 sf lot
-* Fully fenced in back yard with 650 sf redwood deck.
-* Automated watering systems for front and back yard.
+* Fully fenced in back yard with 650 sf redwood deck
+* Automated watering systems for front and back yard
 
 ### Convenient Location
-* Quick acces to Central Expressway and far enough to be quiet.
-* Short distance to Hwy 101, 237 and 85.
-* Minutes away from downtown Sunnyvale (0.9 mi), downtown Mountain View (3.7 mi) and Cupertino (4.7 mi).
+* Quick acces to Central Expressway and far enough to be quiet
+* Short distance to Hwy 101, 237 and 85
+* Minutes away from downtown Sunnyvale (0.9 mi), downtown Mountain View (3.7 mi) and Cupertino (4.7 mi)
 * [View map](https://www.google.com/maps/place/Lastreto+Ave+%26+E+Taylor+Ave,+Sunnyvale,+CA+94085).
 
 ### Appliances
-* Dishwasher, Fridge & Gas stove/oven.
-* Hookups for washer & dryer, but **washer & dryer NOT INCLUDED**.
+* Dishwasher, Fridge & Gas stove/oven
+* Hookups for washer & dryer, but **washer & dryer NOT INCLUDED**
 
 ### Schools
 * Fairwood Explorer Program (K-5 elementary school program)
-* Bisshop Elementary, Columbia Middle, Freemont High,
+* Bisshop Elementary, Columbia Middle, Freemont High
 * De Anza Community College
 
 ### Pictures
