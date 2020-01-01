@@ -1,4 +1,4 @@
-# Spacious 5BR/3BA home for rent in Sunnyvale
+### Spacious 5BR/3BA home for rent in Sunnyvale
 ![High ceiling living room](assets/img/lastreto-livingroom-200.jpg)
 ![Huge kitchen](assets/img/lastreto-kitchen-b-200.jpg)
 ![Huge master bedroom](assets/img/lastreto-bedroom-1a-200.jpg)  
