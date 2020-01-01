@@ -8,11 +8,12 @@
 * Open and Spacious floorplan with lots of Sunlight.
 * Modern. Built in 1999 and well maintained.
 * New carpet and toilets installed in 2019.
+* Attached 500 sf 2-car garage (larger than usual 400 sf).
+* Rented **WITHOUT FURNITURE**.
 
 ### Large 7000 sf lot
-* Fully fenced in back yard.
-* 650 sf redwood deck.
-* Attached 500 sf 2-car garage (larger than usual 400 sf).
+* Fully fenced in back yard with 650 sf redwood deck.
+* Automated dripping systems for front and back yard.
 
 ### Convenient Location
 * [View map](https://www.google.com/maps/place/Lastreto+Ave+%26+E+Taylor+Ave,+Sunnyvale,+CA+94085).
@@ -22,7 +23,7 @@
 
 ### Appliances
 * Fridge, Microwave, Dishwasher, Fridge, Gas stove/oven.
-* Hookups for washer & dryer, but appliances NOT included.
+* Hookups for washer & dryer, but **appliances NOT INCLUDED**.
 
 ### Schools
 * Fairwood Explorer Program (K-5 elementary school program)
@@ -30,6 +31,8 @@
 * De Anza Community College
 
 ### Pictures
+Note: Pictures contain furniture that is **NOT INCLUDED**.
+
 Huge kitchen (18'x20') with microwave, dishwasher, fridge & gas stove/oven  
 ![Huge kitchen](assets/img/lastreto-kitchen-b-600.jpg)  
 
