@@ -1,7 +1,7 @@
 ## Beautiful 5BR/3BA home in Sunnyvale
 * Safe and quiet neighborhood in Sunnyvale, CA
 * 2900 sq.ft. detached single family home
-* Open and Spacious floorplan with lots of Sunlight
+* Open and Spacious floorplan with lots of sunlight
 * Huge 18'x20' Kitchen (includes dishwasher, fridge & gas stove)
 * Huge 15'x16' Master Bedroom
 * High ceiling Living Room
@@ -12,10 +12,10 @@
 * Large attached 2-car garage (500 sq.ft. instead of the usual 400)
 * Modern -- Built in 1999 and well maintained
 * New carpet and toilets installed in 2019
-* DOES NOT INCLUDE furniture, DOES NOT INCLUDE washer & dryer
+* Does not include furniture, does not include washer & dryer
 
-### Large 7000 sf lot
-* Fully fenced in back yard with 650 sq.ft. redwood deck
+### Large 7000 sq.ft. lot
+* Fully fenced back yard with 650 sq.ft. redwood deck
 * Automated watering systems for front and back yard
 
 ### Convenient Location
@@ -26,7 +26,7 @@
 
 ### Appliances
 * Dishwasher, Fridge & Gas stove/oven
-* Hookups for washer & dryer, DOES NOT INCLUDED washer & dryer
+* Hookups for washer & dryer, does not include washer & dryer
 
 ### Schools
 * Fairwood Explorer Program (K-5 elementary school program)
@@ -34,7 +34,7 @@
 * De Anza Community College
 
 ### Pictures
-Note: Pictures contain furniture but furniture NOT INCLUDED.
+Note: Pictures contain furniture, but furniture not included.
 
 Huge kitchen (18'x20') with dishwasher, fridge & gas stove  
 ![Huge kitchen](assets/img/lastreto-kitchen-b-600.jpg)  
@@ -55,7 +55,7 @@ Family room with fireplace
 ![Huge master bedroom](assets/img/lastreto-familyroom1-600.jpg)
 ![Huge master bedroom](assets/img/lastreto-familyroom2-600.jpg)
 
-Fenced-in back yard with spacious 650 sf deck  
+Fully fenced back yard with spacious 650 sq.ft. deck  
 ![Huge master bedroom](assets/img/lastreto-backyard1-600.jpg)
 
 ### First floor
