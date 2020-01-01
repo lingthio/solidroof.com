@@ -1,4 +1,4 @@
-## Beautiful 5BR/3BA home in Sunnyvale
+# Spacious 5BR/3BA home for rent in Sunnyvale
 ![High ceiling living room](assets/img/lastreto-livingroom-200.jpg)
 ![Huge kitchen](assets/img/lastreto-kitchen-b-200.jpg)
 ![Huge master bedroom](assets/img/lastreto-bedroom-1a-200.jpg)  
@@ -15,6 +15,7 @@
 * New carpet and toilets installed in 2019
 * Large attached 2-car garage (500 sq.ft. instead of the usual 400)
 * Does not include furniture, artwork nor washer & dryer
+* Asking $4900/month with a $4900 deposit
 
 ### Large 7000 sq.ft. lot
 * Fully fenced back yard with 650 sq.ft. redwood deck
