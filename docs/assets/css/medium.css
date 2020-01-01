@@ -115,7 +115,8 @@ hr {
 }
 
 pre {
-  overflow: auto
+  overflow: auto;
+  font-size: 80%;
 }
 
 code,
