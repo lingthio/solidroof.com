@@ -31,14 +31,14 @@
 * De Anza Community College
 
 ### Pictures
-Huge kitchen (18'x20') with microwave, dishwasher, fridge & gas stove/oven
+Huge kitchen (18'x20') with microwave, dishwasher, fridge & gas stove/oven  
 ![Huge kitchen](assets/img/lastreto-kitchen-b-600.jpg)  
 
-Huge master bedroom (15'x16')
+Huge master bedroom (15'x16')  
 ![Huge master bedroom](assets/img/lastreto-bedroom-1a-600.jpg)  
 ![Huge master bedroom](assets/img/lastreto-bedroom-1b-600.jpg)
 
-Master bathroom with 2 sinks, toilet stall, shower stall & bath tub
+Master bathroom with 2 sinks, toilet stall, shower stall & bath tub  
 ![Huge master bedroom](assets/img/lastreto-bath-sink-600.jpg)  
 ![Huge master bedroom](assets/img/lastreto-bath-tub-600.jpg)
 
@@ -49,7 +49,7 @@ Family room with fireplace
 ![Huge master bedroom](assets/img/lastreto-familyroom1-600.jpg)
 ![Huge master bedroom](assets/img/lastreto-familyroom2-600.jpg)
 
-Fenced-in back yard with spacious 650 sf deck
+Fenced-in back yard with spacious 650 sf deck  
 ![Huge master bedroom](assets/img/lastreto-backyard1-600.jpg)
 
 ### Floor plan
