@@ -3,7 +3,7 @@
 * 2900 sq.ft. detached single family home
 * Open and Spacious floorplan with lots of sunlight
 * Huge 18'x20' Kitchen (includes dishwasher, fridge & gas stove)
-* Huge 15'x16' Master Bedroom
+* Huge 15'x16' Master Bedroom with private bathroom
 * High ceiling Living Room
 * Family room with fireplace
 * Dining room
