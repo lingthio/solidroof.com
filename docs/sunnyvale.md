@@ -1,11 +1,12 @@
 ## Beautiful 5BR/3BA home in Sunnyvale
+* Safe and quiet neighborhood in Sunnyvale, CA
+* 2900 sq.ft. detached single family home
+* Open and Spacious floorplan with lots of sunlight
+
 ![High ceiling living room](assets/img/lastreto-livingroom-200.jpg)
 ![Huge kitchen](assets/img/lastreto-kitchen-b-200.jpg)
 ![Huge master bedroom](assets/img/lastreto-bedroom-1a-200.jpg)  
 
-* Safe and quiet neighborhood in Sunnyvale, CA
-* 2900 sq.ft. detached single family home
-* Open and Spacious floorplan with lots of sunlight
 * High ceiling Living Room
 * Huge 18'x20' Kitchen (includes dishwasher, fridge & gas stove)
 * Huge 15'x16' Master Bedroom with private bathroom
@@ -14,21 +15,21 @@
 * Large attached 2-car garage (500 sq.ft. instead of the usual 400)
 * Modern -- Built in 1999 and well maintained
 * New carpet and toilets installed in 2019
-* Does not include furniture, does not include washer & dryer
+* Does not include furniture, artwork nor washer & dryer
 
 ### Large 7000 sq.ft. lot
 * Fully fenced back yard with 650 sq.ft. redwood deck
-* Automated watering systems for front and back yard
+* Automated watering systems for front and back yards
 
 ### Convenient Location
-* Quick acces to Central Expressway and far enough to be quiet
-* Short distance to Hwy 101, 237 and 85
+* Quick access to Central Expressway, but far enough to be quiet
+* Short distance to Highways 101, 237 and 85
 * Minutes away from downtown Sunnyvale (0.9 mi), downtown Mountain View (3.7 mi) and Cupertino (4.7 mi)
 * [View map](https://www.google.com/maps/place/Lastreto+Ave+%26+E+Taylor+Ave,+Sunnyvale,+CA+94085).
 
 ### Appliances
 * Dishwasher, Fridge & Gas stove/oven
-* Hookups for washer & dryer, does not include washer & dryer
+* Hookups for washer & dryer are available, but washer & dryer are not included
 
 ### Schools
 * Fairwood Explorer Program (K-5 elementary school program)
@@ -36,7 +37,7 @@
 * De Anza Community College
 
 ### Pictures
-Note: Pictures contain furniture, but furniture not included.
+Note: Pictures contain furniture and artwork that are not included.
 
 Huge kitchen (18'x20') with dishwasher, fridge & gas stove  
 ![Huge kitchen](assets/img/lastreto-kitchen-b-600.jpg)  
