@@ -6,6 +6,7 @@
 * 2950 sq.ft. 5BR/3BA detached single family home
 * Open and Spacious floorplan with lots of sunlight
 * Asking $4900/month with a $4900 deposit
+* No smoking. Pets negotiable.
 
 ### Beautiful and spacious home
 * Modern -- Built in 1999 and well maintained
