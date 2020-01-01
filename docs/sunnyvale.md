@@ -2,7 +2,7 @@
 * Safe and quiet neighborhood in Sunnyvale, CA
 * Spacious 2900 sf. 5 bedrooms. 3 full baths.
 * Huge 18'x20' Kitchen and 15'x16' Master Bedroom.
-* Catherdal ceiling Living Room / Family room / Dining room.
+* High ceiling Living Room / Family room with fireplace / Dining room.
 * Open and Spacious floorplan with lots of Sunlight.
 * Modern. Built in 1999 and well maintained.
 * Master bedroom has 2 walk-in closets.
@@ -31,12 +31,26 @@
 * De Anza Community College
 
 ### Pictures
-Huge kitchen (18'x20')  
+Huge kitchen (18'x20') with microwave, dishwasher, fridge & gas stove/oven
 ![Huge kitchen](assets/img/lastreto-kitchen-b-600.jpg)  
 
-Huge master bedroom (15'x16') with master bathroom  
+Huge master bedroom (15'x16')
 ![Huge master bedroom](assets/img/lastreto-bedroom-1a-600.jpg)  
-![Huge master bedroom](assets/img/lastreto-bedroom-1b-600.jpg)  
+![Huge master bedroom](assets/img/lastreto-bedroom-1b-600.jpg)
+
+Master bathroom with 2 sinks, toilet stall, shower stall & bath tub
+![Huge master bedroom](assets/img/lastreto-bath-sink-600.jpg)  
+![Huge master bedroom](assets/img/lastreto-bath-tub-600.jpg)
+
+High ceiling living room  
+![Huge master bedroom](assets/img/lastreto-livingroom-600.jpg)
+
+Family room with fireplace  
+![Huge master bedroom](assets/img/lastreto-familyroom1-600.jpg)
+![Huge master bedroom](assets/img/lastreto-familyroom2-600.jpg)
+
+Fenced-in back yard with spacious 650 sf deck
+![Huge master bedroom](assets/img/lastreto-backyard1-600.jpg)
 
 ### Floor plan
 ```
@@ -75,9 +89,9 @@ First Floor            +-------------+--------------------------+---------------
                        |                |                   |                          |
                        |                |                   |                          |
          . . ----------+----------------+-------------------+--------------------------+
+```
 
-
-
+```
 Second Floor                                                    +----------------------+
                                                                 |                      |
                                                                 |                      |
