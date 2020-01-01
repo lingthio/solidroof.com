@@ -1,13 +1,12 @@
-## Amazing 5BR/3BA detached single family home in Sunnyvale
-* Safe and quiet neighborhood in Sunnyvale, CA
-* Spacious 2900 sf. 5 bedrooms. 3 full baths.
+## Beautiful 5BR/3BA home in Sunnyvale
+* Safe and quiet neighborhood in Sunnyvale, CA.
+* 2900 sf. detached single family home.
 * Huge 18'x20' Kitchen and 15'x16' Master Bedroom.
 * High ceiling Living Room / Family room with fireplace / Dining room.
+* 1 bedroom & 1 full bath downstairs.
+* 4 bedrooms & 2 full baths upstairs.
 * Open and Spacious floorplan with lots of Sunlight.
 * Modern. Built in 1999 and well maintained.
-* Master bedroom has 2 walk-in closets.
-* Master bathroom has a large shower stall and a large tub.
-* Includes 1 bedroom and 1 full bath on first floor.
 * New carpet and toilets installed in 2019.
 
 ### Large 7000 sf lot
