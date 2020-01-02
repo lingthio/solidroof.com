@@ -26,7 +26,7 @@
 * Quick access to Central Expressway, but far enough to be quiet
 * Short distance to Highways 101, 237 and 85
 * Minutes away from downtown Sunnyvale (0.9 mi), Mountain View (3.7 mi) and Cupertino (4.7 mi)
-* [View map](https://www.google.com/maps/place/Lastreto+Ave+%26+E+Taylor+Ave,+Sunnyvale,+CA+94085).
+* [View map](https://www.google.com/maps/place/Lastreto+Ave+%26+E+Taylor+Ave,+Sunnyvale,+CA+94085){:target="_blank"}
 
 ### Appliances
 * Dishwasher, Fridge & Gas stove/oven
