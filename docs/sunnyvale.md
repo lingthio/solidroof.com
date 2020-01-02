@@ -62,76 +62,9 @@ Family room with fireplace
 Fully fenced back yard with spacious 650 sq.ft. deck  
 ![Fully fenced back yard](assets/img/lastreto-backyard1-600.jpg)
 
-### First floor
-```
-                       +-------------+--------------------------+----------------------+
-                       |             |                          |                      |
-                       |  Full Bath  +                          |                      |
-                       |  9'0 x 5'0  .                          |                      |
-                       |  (Tile)     .                          |                      |
-                       +-------------+       Living Room        |                      |
-                       |                     17'6 x 13'6        |                      |
-                       +                     (Hardwood)         |     Family Room      |
-                       .                                        |     15'6 x 16'9      |
-                       .    Entry                               |     (Hardwood)       |
-                       .                                        |                      |
-                       +                                        |                      |
-                       |                                        |                      |
-                       |    +---------------------+             +                      |
-                       |        Stairs / Closet   .                                    |
-                       |                          .                                    |
-         . . ----------+----------+-----+---------+       +-------------------+      +-+
-                       | Washer & |Closet                                              |
-                       | Dryer    |     |                                              +
-                       +          + . . +                                              .
-                       .                                                               .
-                       .                                                               .
-                       +----------++ . .+--+             +--+                          +
-                       | Closet   |     |                   |                          |
-         2-car Garage  | . . . . .+     |                   |       Kitchen            |
-         21'6 x 19'6   |                |                   |       18'6 x 19'9        |
-         (Concrete)    |                |                   |       (Tile)             |
-                       |                |    Dining Room    |                          |
-                       |   Bedroom 5    |    12'6 x 13'3    |                          |
-                       |   10'9 x 11'0  |    (Hardwood)     |                          |
-                       |   (Hardwood)   |                   |                          |
-                       |                |                   |                          |
-                       |                |                   |                          |
-                       |                |                   |                          |
-         . . ----------+----------------+-------------------+--------------------------+
-```
-&nbsp;
+### Floor plans
 
-### Second floor
-```
-                                                                +----------------------+
-                                                                |                      |
-                                                                |                      |
-                                                                |    Master Bathroom   |
-                                                                |    15'6 x 9'6        |
-                                                                |    (Tile)            |
-                                                                |                      |
-                                                                |                      |
-                                                                |                      |
-                                                                +---------+    +-------+
-                                 . . ------------+              |         |    |       |
-                                     Stairs      |              | Walk-in |    |Walk-in|
-                                                 |              | Closet  |    |Closet |
-+------------+--+------+--------------------+    +--------------+         |    |       |
-|   Closet   |  |                                               + . . . . +    + . . . +
-+-+ . . . .+-+--+                                               .                      |
-|               .                                               .                      |
-|               .       +-----------+ . .+--+ . .+--------------+                      |
-|               |       |                .  |                   |                      |
-|               |       |                .  |                   |                      |
-|  Bedroom 4    + . .+--+                .Cl|                   |    Master Bedroom    |
-|  10'6 x 14'6  |       |   Bedroom 3    .  |     Bedroom 2     |    15'6 x 16'0       |
-|  (Carpet)     | Full  |   11'0 x 12'3  .__|     13'0 x 12'3   |    (Carpet)          |
-|               | Bath  |   (Carpet)     |  .     (Carpet)      |                      |
-|               | 5'x9' |                |  .                   |                      |
-|               | (Tile)|                |Cl.                   |                      |
-|               |       |                |  .                   |                      |
-|               |       |                |  .                   |                      |
-+---------------+-------+----------------+--+-------------------+----------------------+
-```
-&nbsp;
+![First floor](assets/img/lastreto_floor1_600.jpg)  
+
+![Second floor](assets/img/lastreto_floor2_600.jpg)  
+
