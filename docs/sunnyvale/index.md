@@ -1,7 +1,7 @@
 ### Spacious 5BR/3BA home for rent in Sunnyvale
-![High ceiling living room](assets/img/lastreto-livingroom-200.jpg)
-![Huge kitchen](assets/img/lastreto-kitchen-b-200.jpg)
-![Huge master bedroom](assets/img/lastreto-bedroom-1a-200.jpg)  
+![High ceiling living room](images/sunnyvale-livingroom-200.jpg)
+![Huge kitchen](images/sunnyvale-kitchen-b-200.jpg)
+![Huge master bedroom](images/sunnyvale-bedroom-1a-200.jpg)  
 * Safe and quiet neighborhood in Sunnyvale, CA
 * 2950 sq.ft. 5BR/3BA detached single family home
 * Open and Spacious floorplan with lots of sunlight
@@ -41,30 +41,30 @@
 Note: Pictures contain furniture and artwork that are not included.
 
 Huge kitchen (18'6 x 20') with dishwasher, fridge & gas stove  
-![Huge kitchen](assets/img/lastreto-kitchen-b-600.jpg)  
+![Huge kitchen](images/sunnyvale-kitchen-b-600.jpg)  
 Note: **Pets are not allowed** and no pets have lived here since 2012.
 
 Huge master bedroom (15'6 x 16')  
-![Huge master bedroom](assets/img/lastreto-bedroom-1a-600.jpg)  
-![Huge master bedroom](assets/img/lastreto-bedroom-1b-600.jpg)
+![Huge master bedroom](images/sunnyvale-bedroom-1a-600.jpg)  
+![Huge master bedroom](images/sunnyvale-bedroom-1b-600.jpg)
 
 Master bathroom with 2 sinks, toilet stall, shower stall & bath tub  
-![Master bathroom](assets/img/lastreto-bath-sink-600.jpg)  
-![Master bathroom](assets/img/lastreto-bath-tub-600.jpg)
+![Master bathroom](images/sunnyvale-bath-sink-600.jpg)  
+![Master bathroom](images/sunnyvale-bath-tub-600.jpg)
 
 High ceiling living room  
-![High ceiling living room](assets/img/lastreto-livingroom-600.jpg)
+![High ceiling living room](images/sunnyvale-livingroom-600.jpg)
 
 Family room with fireplace  
-![Family room with fireplace](assets/img/lastreto-familyroom1-600.jpg)
-![Family room with fireplace](assets/img/lastreto-familyroom2-600.jpg)
+![Family room with fireplace](images/sunnyvale-familyroom1-600.jpg)
+![Family room with fireplace](images/sunnyvale-familyroom2-600.jpg)
 
 Fully fenced back yard with spacious 650 sq.ft. deck  
-![Fully fenced back yard](assets/img/lastreto-backyard1-600.jpg)
+![Fully fenced back yard](images/sunnyvale-backyard1-600.jpg)
 
 ### Floor plans
 
-![First floor](assets/img/lastreto-floor1-600.png)  
+![First floor](images/sunnyvale-floor1-600.png)  
 
-![Second floor](assets/img/lastreto-floor2-600.png)  
+![Second floor](images/sunnyvale-floor2-600.png)  
 
