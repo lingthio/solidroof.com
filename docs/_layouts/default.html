@@ -60,10 +60,15 @@
               <nav role="navigation" class="metabar-block metabar-block--below u-flexCenter u-overflowHidden u-height50 u-xs-height39">
                 <div class="u-noWrap navBar-scrollFix uiScale uiScale-ui--regular uiScale-caption--regular">
                   <nav class="ds-nav ds-nav--textCaps ds-nav--spacingNone js-navBar">
+                    <!-- Home -->
                     <li class="ds-nav-item js-tabsItem {% if page.name == "index.md" %} is-active{% endif %}"><span class="ds-nav-text">
                       <a class="ds-link ds-link--stylePointer" href="index">Home</a></span></li>
-                    <li class="ds-nav-item js-tabsItem  {% if page.name == "sunnyvale.md" %} is-active{% endif %}"><span class="ds-nav-text">
+                    <!-- Sunnyvale -->
+                    <li class="ds-nav-item js-tabsItem  {% if page.name == "sunnyvale" %} is-active{% endif %}"><span class="ds-nav-text">
                       <a class="ds-link ds-link--stylePointer" href="sunnyvale">Sunnyvale 5BR/3BA</a></span></li>
+                    <!-- Oakland -->
+                    <li class="ds-nav-item js-tabsItem  {% if page.name == "oakland" %} is-active{% endif %}"><span class="ds-nav-text">
+                      <a class="ds-link ds-link--stylePointer" href="sunnyvale">Oakland Condo</a></span></li>
                   </nav>
                 </div>
               </nav>
