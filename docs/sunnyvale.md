@@ -44,7 +44,7 @@ Huge kitchen (18'6 x 20') with dishwasher, fridge & gas stove
 ![Huge kitchen](assets/img/lastreto-kitchen-b-600.jpg)  
 Note: **Pets are not allowed** and no pets have lived here since 2012.
 
-Huge master bedroom (15'6 x 16)  
+Huge master bedroom (15'6 x 16')  
 ![Huge master bedroom](assets/img/lastreto-bedroom-1a-600.jpg)  
 ![Huge master bedroom](assets/img/lastreto-bedroom-1b-600.jpg)
 
