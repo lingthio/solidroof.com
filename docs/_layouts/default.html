@@ -35,7 +35,7 @@
                 
                 <!-- XS Viewports -->
                 <div class="u-xs-show js-metabarLogoLeft">
-                  <a href="index" data-log-event="home" class="siteNav-logo u-fillTransparentBlackDarker u-flex0 u-flexCenter u-paddingTop0">
+                  <a href="/" data-log-event="home" class="siteNav-logo u-fillTransparentBlackDarker u-flex0 u-flexCenter u-paddingTop0">
                       <h3>SolidRoof Real Estate</h3>
                   </a>
                 </div>
@@ -61,14 +61,14 @@
                 <div class="u-noWrap navBar-scrollFix uiScale uiScale-ui--regular uiScale-caption--regular">
                   <nav class="ds-nav ds-nav--textCaps ds-nav--spacingNone js-navBar">
                     <!-- Home -->
-                    <li class="ds-nav-item js-tabsItem {% if page.name == "/" %} is-active{% endif %}"><span class="ds-nav-text">
-                      <a class="ds-link ds-link--stylePointer" href="index">Home</a></span></li>
+                    <li class="ds-nav-item js-tabsItem {% if page.dir == "/" %} is-active{% endif %}"><span class="ds-nav-text">
+                      <a class="ds-link ds-link--stylePointer" href="/">Home</a></span></li>
                     <!-- Sunnyvale -->
-                    <li class="ds-nav-item js-tabsItem  {% if page.name == "/sunnyvale" %} is-active{% endif %}"><span class="ds-nav-text">
-                      <a class="ds-link ds-link--stylePointer" href="sunnyvale">Sunnyvale 5BR/3BA</a></span></li>
+                    <li class="ds-nav-item js-tabsItem  {% if page.dir == "/sunnyvale/" %} is-active{% endif %}"><span class="ds-nav-text">
+                      <a class="ds-link ds-link--stylePointer" href="/sunnyvale">Sunnyvale 5BR/3BA</a></span></li>
                     <!-- Oakland -->
-                    <li class="ds-nav-item js-tabsItem  {% if page.name == "/oakland" %} is-active{% endif %}"><span class="ds-nav-text">
-                      <a class="ds-link ds-link--stylePointer" href="sunnyvale">Oakland Condo</a></span></li>
+                    <li class="ds-nav-item js-tabsItem  {% if page.dir == "/oakland/" %} is-active{% endif %}"><span class="ds-nav-text">
+                      <a class="ds-link ds-link--stylePointer" href="/oakland">Oakland Condo</a></span></li>
                   </nav>
                 </div>
               </nav>
