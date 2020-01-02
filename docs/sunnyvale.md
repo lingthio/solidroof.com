@@ -64,7 +64,7 @@ Fully fenced back yard with spacious 650 sq.ft. deck
 
 ### Floor plans
 
-![First floor](assets/img/lastreto-floor1-600.jpg)  
+![First floor](assets/img/lastreto-floor1-600.png)  
 
-![Second floor](assets/img/lastreto-floor2-600.jpg)  
+![Second floor](assets/img/lastreto-floor2-600.png)  
 
