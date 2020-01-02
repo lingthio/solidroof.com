@@ -1,5 +1,6 @@
 ## Amazingly located 2BR/1BA condo in Rockridge, Oakland
 * Furnished 900 sq.ft. 2 Bedroom, 1 Bath
+* Hardwood flooring
 * Kitchen with dishwasher, fridge and gas oven/stove
 * Shared washer & dryer and shared back yard
 
