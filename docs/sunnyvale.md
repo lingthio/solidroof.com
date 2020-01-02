@@ -12,8 +12,8 @@
 * Modern -- Built in 1999 and well maintained
 * Hardwood flooring on the first floor, new carpet on the second floor
 * High ceiling Living Room
-* Huge Kitchen (18'6x19'9), includes dishwasher, fridge & gas stove
-* Huge Master Bedroom (15'6x16'0) with private bathroom
+* Huge Kitchen (18'6 x 20'), includes dishwasher, fridge & gas stove
+* Huge Master Bedroom (15'6 x 16') with private bathroom
 * New carpet and toilets installed in 2019
 * Large attached 2-car garage
 * Does not include furniture, artwork nor washer & dryer
@@ -40,11 +40,11 @@
 ### Pictures
 Note: Pictures contain furniture and artwork that are not included.
 
-Huge kitchen (18'6x19'9) with dishwasher, fridge & gas stove  
+Huge kitchen (18'6 x 20') with dishwasher, fridge & gas stove  
 ![Huge kitchen](assets/img/lastreto-kitchen-b-600.jpg)  
 Note: **Pets are not allowed** and no pets have lived here since 2012.
 
-Huge master bedroom (15'6x16'0)  
+Huge master bedroom (15'6 x 16)  
 ![Huge master bedroom](assets/img/lastreto-bedroom-1a-600.jpg)  
 ![Huge master bedroom](assets/img/lastreto-bedroom-1b-600.jpg)
 
