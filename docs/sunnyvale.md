@@ -1,4 +1,4 @@
-### Spacious 5BR/3BA detached single family home in Sunnyvale
+## Beautiful and Spacious 5BR/3BA home in Sunnyvale
 ![High ceiling living room](sunnyvale/images/sunnyvale-livingroom-200.jpg)
 ![Huge kitchen](sunnyvale/images/sunnyvale-kitchen-b-200.jpg)
 ![Huge master bedroom](sunnyvale/images/sunnyvale-bedroom-1a-200.jpg)  
@@ -23,13 +23,13 @@
 * Automated watering systems for front and back yards
 
 ### Convenient Location
+* Near [Roosevelt Ave & E Taylor Ave](https://www.google.com/maps/place/Roosevelt+Ave+%26+E+Taylor+Ave,+Sunnyvale,+CA+94085){:target="_blank"}
 * Quick access to Central Expressway, but far enough to be quiet
 * Short distance to Highways 101, 237 and 85
-* Minutes away from downtown Sunnyvale (0.9 mi), Mountain View (3.7 mi) and Cupertino (4.7 mi)
-* [View map](https://www.google.com/maps/place/Lastreto+Ave+%26+E+Taylor+Ave,+Sunnyvale,+CA+94085){:target="_blank"}
+* Minutes away from downtown Sunnyvale, Mountain View and Cupertino
 
 ### Appliances
-* Dishwasher, Fridge & Gas stove/oven
+* Dishwasher, Fridge & Gas oven/stove
 * Hookups for washer & dryer are available, but washer & dryer are not included
 
 ### Schools
@@ -40,7 +40,7 @@
 ### Pictures
 Note: Pictures contain furniture and artwork that are not included.
 
-Huge kitchen (18'6 x 20') with dishwasher, fridge & gas stove  
+Huge kitchen (18'6 x 20') with dishwasher, fridge & gas oven/stove  
 ![Huge kitchen](sunnyvale/images/sunnyvale-kitchen-b-600.jpg)  
 Note: **Pets are not allowed** and no pets have lived here since 2012.
 
