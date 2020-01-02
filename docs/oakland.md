@@ -5,12 +5,12 @@
 * 2 Blocks from Safeways. 4 Blocks from Trader Joes.
 * 10-minute walk to Rockridge BART.
 
-![Back yard](images/oakland-backyard.jpg)  
+![Back yard](oakland/images/oakland-backyard.jpg)  
 
-![Bedroom 1](images/oakland-bedroom1.jpg)  
+![Bedroom 1](oakland/images/oakland-bedroom1.jpg)  
 
-![Dining room](images/oakland-dining-room.jpg)  
+![Dining room](oakland/images/oakland-dining-room.jpg)  
 
-![Kitchen](images/oakland-kitchen.jpg)  
+![Kitchen](oakland/images/oakland-kitchen.jpg)  
 
-![Living room](images/oakland-living-room.jpg)  
+![Living room](oakland/images/oakland-living-room.jpg)  
