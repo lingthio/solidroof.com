@@ -5,7 +5,7 @@
 * Safe and quiet neighborhood in Sunnyvale, CA
 * 2950 sq.ft. 5BR/3BA detached single family home
 * Open and Spacious floorplan with lots of sunlight
-* Asking $4900/month with a $4900 deposit
+* Asking $4950/month with a $4950 deposit
 * No smoking. Pets negotiable.
 
 ### Beautiful and spacious home
