@@ -24,3 +24,6 @@
 
 **Shared back yard**   
 ![Back yard](oakland/images/oakland-backyard-600.jpg)  
+
+**Floor plan**   
+![Back yard](oakland/images/oakland-floorplan-600.png)  
