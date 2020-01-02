@@ -1,4 +1,4 @@
-### Spacious 5BR/3BA home for rent in Sunnyvale
+### Spacious 5BR/3BA detached single family home in Sunnyvale
 ![High ceiling living room](sunnyvale/images/sunnyvale-livingroom-200.jpg)
 ![Huge kitchen](sunnyvale/images/sunnyvale-kitchen-b-200.jpg)
 ![Huge master bedroom](sunnyvale/images/sunnyvale-bedroom-1a-200.jpg)  
